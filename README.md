@@ -6,6 +6,7 @@ Let RuntimePermissionInJava support
 - Multiple Permission
 - With Custom UI
 - Example with Fragment and Activity
+- With Special Permission like MANAGE_EXTERNAL_STORAGE, REQUEST_INSTALL_PACKAGES, SYSTEM_ALERT_WINDOW, ACCESS_BACKGROUND_LOCATION etc.,
 
 |                   1               |                 2                 |                 3                 |                  4               |
 |-----------------------------------|-----------------------------------|-----------------------------------|----------------------------------|
